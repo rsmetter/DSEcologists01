@@ -4,6 +4,8 @@
 #
 #       "Tue Oct  1 10:53:57 2024"
 #
+#
+#     Revised Nov 12 12:30 2024
 ##############################################
 
 date()
@@ -136,7 +138,7 @@ str(bio1)
 bio1
 plot(bio1)
 
-
+#tracking test 1
 
 
 tx_counties <- map_data("county", "texas") 
