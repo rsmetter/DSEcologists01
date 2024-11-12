@@ -136,14 +136,8 @@ str(bio1)
 bio1
 plot(bio1)
 
-ggplot()
 
-# Data frame with the coordinates of the Edinburg campus
-edinburg_coords <- data.frame(
-  latitude = 26.3014,
-  longitude = -98.1696,
-  label = "UTRGV Edinburg Campus"
-)
+
 
 tx_counties <- map_data("county", "texas") 
 
